@@ -1,3 +1,4 @@
+//forse si puó migliorare
 #include<stdlib.h>
 #include<stdio.h>
 #include<string.h>
